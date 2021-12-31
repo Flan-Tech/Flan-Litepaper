@@ -83,11 +83,13 @@ Our community is at the heart of what we do. We are all one unit working towards
 
 ## Team
 
-![Team A](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/6199bfbb140958b37808360f_Team%20%E2%80%93%20A.svg)
+![Team A](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61cea1081421b13f93e26f40_Team%20%E2%80%93%20A.svg)
 
-![Team B](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/6199bfba34b8281a2986e798_Team%20%E2%80%93%20B.svg)
+![Team B](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61cea108f9e0cae6e78ca040_Team%20%E2%80%93%20B.svg)
 
-![Team C](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/6199bfb9140958f2b30835fc_Team%20%E2%80%93%20C.svg)
+![Team C](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61cea107f9e0ca79888ca030_Team%20%E2%80%93%20C.svg)
+
+![Team D](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61cea106f9e0ca9b1a8ca02f_Team%20%E2%80%93%20D.svg)
 
 ---
 ---
@@ -195,6 +197,8 @@ FLN is an ERC-20 token minted on the Celo blockchain. It is used to facilitate g
 ## Initial Staking Rewards
 Staking is the delegating of a certain number of FLNs to the governance model and thus locking them out of circulation for a specified length of time. This can increase the value of FLN by limiting the supply. In addition, FLN is also be used for governance, where stakers can participate in validator elections, earn rewards, and vote on decisions concerning the operations of Flan. Voting rights are asymptotically diminishing and follow an exponential decay model.
 
+Flan Tokens are locked up for a period of 2 weeks. At the conclusion of the staking period, tokens can be withdrawn to the staker's linked address or re-staked as long as the staker has no active projects at that time. If the staker has an active project at the conclusion of the staking period, they will not be able to withdraw the staked tokens until all projects in their queue are finished and all payments are sent/received.
+
 Staking Rewards by tier:
 
 **General:**
@@ -247,10 +251,52 @@ Staking Rewards by tier:
 ---
 ---
 
+# Flan NFTs
+## Types of NFTs on Flan
+![Flan Token Types](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61ce8e9bf9e0ca56db8c6392_NFT%20Use%20Cases.svg)
+
+## Task Submission NFT
+Task Submission NFTs can be minted only by the client of a project on Flan. The client is able to select a project file and mint an NFT of that file. If the client chooses to, they can then post it and sell it on Flan's NFT Marketplace. 
+
+![Task Submission NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61ce8e9bb29eb020c8f0f240_NFT%20-%20Task%20Submission%20NFT%20Parameters.svg)
+![Task Submission NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61ce934aa77d740cee884b97_NFT%20-%20Task%20Submission%20NFT%20Process.svg)
+
+## Media for Sale NFT
+Any user can upload a media file to mint and sell an NFT on Flan's NFT Marketplace. The user would either assign a value in Flan Tokens to that NFT or choose the "Best Offer" option where people can place bids on it within a specified timeframe. The user can also specify a royalty rate of up to 12%.
+
+![Media for Sale NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61ce8e9b439ed3806de9b374_NFT%20-%20Media%20for%20Sale%20Parameters.svg)
+![Media for Sale NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61ce934a65c416b52dc8509a_NFT%20-%20Media%20for%20Sale%20Process.svg)
+
+## Access to Services NFT
+Any user can be awarded NFTs that grants them access to events. Such as in-real-life Flan events, virtual events, and competitions. These NFTs can only be created by people with access and can be sold in the marketplace following the same process as the "Media for Sale NFTs"
+
+![Access to Services NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61ce8e9b60b2280f4fe132b8_NFT%20-%20Access%20to%20Services%20Parameters.svg)
+![Access to Services NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61ce934ab29eb00e8ff1077d_NFT%20-%20Access%20to%20Services%20Process.svg)
+
+## Portfolio NFT
+Once a freelancer creates a profile on Flan, an upgradeable NFT for their portfolio is minted. The NFT evolves as more projects/media are added to the portfolio and updates whenever there's a value change in the set parameters that the NFT holds.
+
+![Portfolio NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61ce8e9cc82790164e0af198_NFT%20-%20Portfolio%20NFT%20Parameters.svg)
+![Portfolio NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61ce9137a26d7c31d92af726_NFT%20-%20Portfolio%20NFT%20Process.svg)
+
+## Project NFT
+A Project NFT is minted automatically when a client creates a new project. This NFT holds all project information and is also used to further authenticate Task Submission NFTs.
+
+![Project NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61ce8e9c7d74a703f68db115_NFT%20-%20Project%20NFT%20Parameters.svg)
+![Project NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61ce91378e0e200658284ad0_NFT%20-%20Project%20NFT%20Process.svg)
+
+---
+---
+---
+
 # Partners
 ![Celo](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/6174afddd02509782d5944ec_celo-logo.svg ':size=180x80')
 
+Celo is a platform acting as a global payment infrastructure for cryptocurrencies that aims to target mobile users. To this end, Celo’s goal is for financial activity to be accessible to anyone globally thanks to its ability for payments to be sent to and from any phone number in the world. In addition to basic payments, Celo can support the development of decentralized applications on its blockchain.
+
 ![Paysail](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/6199c1713b3a6ade609b82f1_Paysail.svg ':size=180x80')
+
+Instant B2B Invoicing and Payments. Paysail leverages asset-backed stablecoins to offer an innovative global B2B invoicing solution with immediate access to incoming funds.
 
 ---
 ---
