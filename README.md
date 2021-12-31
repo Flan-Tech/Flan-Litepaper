@@ -14,10 +14,12 @@ Welcome to Flan's litepaper. Flan is a blockchain-powered, local-first freelance
 
 [**Flan Token**](#Flan-Token) ![caret](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/619320db9bbc32670ea9d3bb_caret-right.svg ':size=12x12')
 
+[**Flan NFTs**](#Flan-NFTs) ![caret](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/619320db9bbc32670ea9d3bb_caret-right.svg ':size=12x12')
 
 [**Partners**](#Partners) ![caret](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/619320db9bbc32670ea9d3bb_caret-right.svg ':size=12x12')
 
 [**Contact**](#Contact) ![caret](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/619320db9bbc32670ea9d3bb_caret-right.svg ':size=12x12')
+
 
 ---
 ---
