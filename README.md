@@ -25,6 +25,19 @@ Welcome to Flan's litepaper. Flan is a blockchain-powered, local-first freelance
 ---
 ---
 
+# Rationale 
+
+The potential offered by alternative means of working such as freelancing or having a digital nomad lifestyle is a pathway many professionals have been  turning to in recent years. The digital infrastructure has provided a good base for matchmaking opportunities between professionals and employers enabled by the worldwide web. As of January 2021, there were 4.66 billion active internet users worldwide, proving the internet’s value and enforcing the UN’s decision to enlist access to it as a human right in 2016. Complementary and integral to this infrastructure are the intermediate banking services that control and monitor the payment transactions these professionals need. Despite the advantages of the traditional banking systems, an estimated 1.7 billion adults out of 4.66 billion internet users remain unbanked; those without an account at a financial institution or mobile money provider. This means that a significant portion of the digital workforce is unable to benefit from the global village due to their unbanked status. Additionally, as account ownership is nearly universal in high-income economies, most unbanked adults live in developing economies.<sup>1</sup>
+
+While working online is not contingent on having a registered banking account, being unbanked is becoming a considerable obstacle for many within the gig economy. A freelancer in a developing economy can be excluded from the thousands of opportunities online simply because their banking credentials, or lack thereof, do not match a set of requirements. Digital Nomad freelancers who choose to have a transnational and mobile lifestyle while working from a laptop are restricted by banks, their transaction fees, and exchange rates. In a time where options are celebrated, having a registered banking service should not be the reason why professionals are limited in what they can provide the gig economy.
+
+It is our belief at FLAN that freelancing should be free from centralized institutions. We founded FLAN because we believe freelancing is a fast-growing and critical part of the economy of the future. Our mission is to revolutionize the gig economy making it more secure, transparent, sustainable, and decentralized. Our vision makes use of Blockchain technology which is shifting how the world operates and concentrates on decentralized networks which create unprecedented opportunities for millions.
+Our vision of making a sustainable gig economy can not be realized unless it is centered on supporting emerging communities. We aspire to create the conditions for prosperity through building an accessible and inclusive ecosystem; which has made for an ideal partnership with Celo. Not only does Celo share our values of making the gig economy available to as many professionals as possible around the world, but they also grant us access to one of the most widely used blockchains for real-world use.
+With the technology and computing powers at our disposal today, comes the responsibility to rethink the way we work and conduct business. The recent COVID-19 Pandemic has forced us to view the world through new eyes: we no longer need to be at the office to do good and creative work on a 9-5 schedule, we can choose to work at our convenience, conduct virtual meetings, and accomplish our goals. Digital nomadism and freelancing are approaches that are gaining major buy-in and popularity in recent times, therefore we are at a critical point where we need to dig deeper and build the tools of tomorrow.
+
+Together, we can shift norms and create a decentralized digital hub for freelancers and digital nomads worldwide.
+
+<sup>1</sup> https://www.statista.com/statistics/617136/digital-population-worldwide/
 # Glossary 
 
 **Client**
