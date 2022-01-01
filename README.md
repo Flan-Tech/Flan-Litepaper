@@ -4,6 +4,8 @@
 
 Welcome to Flan's litepaper. Flan is a blockchain-powered, local-first freelance platform that truly focuses on building relationships and helping freelancers & clients manage projects using smart methodologies. Here you will find useful information about the project.
 
+[**Rationale**](#Rationale) ![caret](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/619320db9bbc32670ea9d3bb_caret-right.svg ':size=12x12')
+
 [**Glossary**](#Glossary) ![caret](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/619320db9bbc32670ea9d3bb_caret-right.svg ':size=12x12')
 
 [**Project Details**](#Project-Details) ![caret](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/619320db9bbc32670ea9d3bb_caret-right.svg ':size=12x12')
