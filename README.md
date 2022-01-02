@@ -160,11 +160,11 @@ Smart solutions so you never have too much on your plate coupled with analytics 
 
 ## User Roles
 
-![User Roles Types - Freelancer](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eb01ab815dd0032bfaae_User%20Roles%20-%20Types%20-%20Freelancer.svg)
+![User Roles Types - Freelancer](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c3ab815d58362c0c1d_User%20Roles%20-%20Types%20-%20Freelancer.svg)
 
-![User Roles Types - Client](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eaffbb3dc30326c8a469_User%20Roles%20-%20Types%20-%20Client.svg)
+![User Roles Types - Client](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c365c416e9e0d26b5f_User%20Roles%20-%20Types%20-%20Client.svg)
 
-![User Roles Types - Connector](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eb00b7e956a5173c82e5_User%20Roles%20-%20Types%20-%20Connector.svg)
+![User Roles Types - Connector](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c384d38b6fc39451af_User%20Roles%20-%20Types%20-%20Connector.svg)
 
 ![User Roles - Access](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eaff01c940cb40d73279_User%20Roles%20-%20Access.svg)
 
@@ -173,7 +173,7 @@ Smart solutions so you never have too much on your plate coupled with analytics 
 ![Project Lifecycle](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eaff8cdf7208b1622a0a_Project%20Lifecycle%20%E2%80%93%201.svg)
 
 ## Transaction Process
-![Transaction Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eaffab815d7e062bfaad_Transaction%20Process.svg)
+![Transaction Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c3cf124c3eed465aad_Transaction%20Process.svg)
 ## Payment Process
 
 ### Initiation
@@ -182,15 +182,15 @@ Smart solutions so you never have too much on your plate coupled with analytics 
 ![Payment Process Receipt](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eb00bfd3d826a096447c_Payment%20Process%20-%20Receipt.svg)
 ## Parameters
 
-![Project Creation](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eaffd6d8ca47b624225a_Parameters%20-%20Project%20Creation.svg)
+![Project Creation](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c2c3681431627640f9_Parameters%20-%20Project%20Creation.svg)
 
 ![Application Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafebda4b0bc5ad66228_Parameters%20-%20Application%20Process.svg)
 
-![Approval Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafebda4b0bc5ad66228_Parameters%20-%20Application%20Process.svg)
+![Approval Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafe8a518117eb44921e_Parameters%20-%20Approval%20Process.svg)
 
-![In-project Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eaffbf6429126734efe6_Parameters%20-%20In-project%20Process.svg)
+![In-project Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c28a51811b9144a2af_Parameters%20-%20In-project%20Process.svg)
 
-![Post-project Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eaffe3175c1c508991ca_Parameters%20-%20Post%20Project%20Process.svg)
+![Post-project Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c29698d316ddcbdc53_Parameters%20-%20Post%20Project%20Process.svg)
 
 ---
 ---
@@ -270,37 +270,37 @@ Staking Rewards by tier:
 
 # Flan NFTs
 ## Types of NFTs on Flan
-![Flan Token Types](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafebb3dc386ccc8a466_NFT%20Use%20Cases.svg)
+![Flan Token Types](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c13dd00f07c382240f_NFT%20Use%20Cases.svg)
 
 ## Task Submission NFT
 Task Submission NFTs can be minted only by the client of a project on Flan. The client is able to select a project file and mint an NFT of that file. If the client chooses to, they can then post it and sell it on Flan's NFT Marketplace. 
 
-![Task Submission NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafeab815dea312bfaac_NFT%20-%20Task%20Submission%20NFT%20Parameters.svg)
-![Task Submission NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafe9698d3d348cbc63a_NFT%20-%20Task%20Submission%20NFT%20Process.svg)
+![Task Submission NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c1a77d7427c193bae2_NFT%20-%20Task%20Submission%20NFT%20Parameters.svg)
+![Task Submission NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c13dd00f85cb822410_NFT%20-%20Task%20Submission%20NFT%20Process.svg)
 
 ## Media for Sale NFT
 Any user can upload a media file to mint and sell an NFT on Flan's NFT Marketplace. The user would either assign a value in Flan Tokens to that NFT or choose the "Best Offer" option where people can place bids on it within a specified timeframe. The user can also specify a royalty rate of up to 12%.
 
-![Media for Sale NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafdd2d2d17a2379aa86_NFT%20-%20Media%20for%20Sale%20Parameters.svg)
-![Media for Sale NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafe4d566df4a0f59dfa_NFT%20-%20Media%20for%20Sale%20Process.svg)
+![Media for Sale NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c1e284458d7cc015c2_NFT%20-%20Media%20for%20Sale%20Parameters.svg)
+![Media for Sale NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c1eefb2456a9dafc00_NFT%20-%20Media%20for%20Sale%20Process.svg)
 
 ## Access to Services NFT
 Any user can be awarded NFTs that grants them access to events. Such as in-real-life Flan events, virtual events, and competitions. These NFTs can only be created by people with access and can be sold in the marketplace following the same process as the "Media for Sale NFTs"
 
-![Access to Services NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafd5599ff0e87355686_NFT%20-%20Access%20to%20Services%20Parameters.svg)
-![Access to Services NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafebe32b14b01f9b01d_NFT%20-%20Access%20to%20Services%20Process.svg)
+![Access to Services NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c1cf124c1303465aab_NFT%20-%20Access%20to%20Services%20Parameters.svg)
+![Access to Services NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c15a116c5fa84bf0ef_NFT%20-%20Access%20to%20Services%20Process.svg)
 
 ## Portfolio NFT
 Once a freelancer creates a profile on Flan, an upgradeable NFT for their portfolio is minted. The NFT evolves as more projects/media are added to the portfolio and updates whenever there's a value change in the set parameters that the NFT holds.
 
-![Portfolio NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafe65c416f3edd2504f_NFT%20-%20Portfolio%20NFT%20Parameters.svg)
-![Portfolio NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafeab815d6fa32bfaab_NFT%20-%20Portfolio%20NFT%20Process.svg)
+![Portfolio NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c1bda4b01362d68f15_NFT%20-%20Portfolio%20NFT%20Parameters.svg)
+![Portfolio NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c18c3133ad6816d1aa_NFT%20-%20Portfolio%20NFT%20Process.svg)
 
 ## Project NFT
 A Project NFT is minted automatically when a client creates a new project. This NFT holds all project information and is also used to further authenticate Task Submission NFTs.
 
-![Project NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafe721bda05b2ec57ca_NFT%20-%20Project%20NFT%20Parameters.svg)
-![Project NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0eafe84d38b887f942c3b_NFT%20-%20Project%20NFT%20Process.svg)
+![Project NFT Parameters](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c1b7e9561e783c9dce_NFT%20-%20Project%20NFT%20Parameters.svg)
+![Project NFT Process](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/61d0f0c14fca5b84b51b3f33_NFT%20-%20Project%20NFT%20Process.svg)
 
 ---
 ---
