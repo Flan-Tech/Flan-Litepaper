@@ -307,9 +307,6 @@ A Project NFT is minted automatically when a client creates a new project. This 
 
 Celo is a platform acting as a global payment infrastructure for cryptocurrencies that aims to target mobile users. To this end, Celo’s goal is for financial activity to be accessible to anyone globally thanks to its ability for payments to be sent to and from any phone number in the world. In addition to basic payments, Celo can support the development of decentralized applications on its blockchain.
 
-![Paysail](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/6199c1713b3a6ade609b82f1_Paysail.svg ':size=180x80')
-
-Instant B2B Invoicing and Payments. Paysail leverages asset-backed stablecoins to offer an innovative global B2B invoicing solution with immediate access to incoming funds.
 
 ---
 ---
