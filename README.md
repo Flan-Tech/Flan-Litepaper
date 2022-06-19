@@ -65,7 +65,7 @@ Together, we can shift norms and create a decentralized digital hub for freelanc
 
 # Project Details
 
-Flan is a freelance platform within the Celo ecosystem. Targeted at designers and developers, the platform is designed to provide best-in-class talent and experience to businesses and individuals. We aim to connect freelancers and clients operating in different areas of the world and increase crypto adoption within the gig-economy. We also aim to provide an easy solution especially for businesses operating in the blockchain industry to hire and pay freelancers without the need for using fiat payments. The platform is currently a web-based PWA that is designed to be mobile adaptive. We offer project creation and management tools such as audio/video/text chat, kan-ban style subtask creation, file sharing, note keeping (shared and private), project matching based on user location and language, portfolio showcasing, and fiat payments using our stripe integration.
+Flan is a freelance platform within the Celo ecosystem. Targeted at designers building for web3 applications (Metaverses, NFTs, Gaming..etc). The platform is designed to provide best-in-class talent and experience to businesses and individuals. We aim to connect freelancers and clients operating in different areas of the world and increase crypto adoption within the gig-economy. We also aim to provide an easy solution especially for businesses operating in the blockchain industry to hire and pay freelancers without the need for using fiat payments. The platform is currently a web-based PWA that is designed to be mobile adaptive and offers project creation and management tools such as audio/video/text chat, kan-ban style subtask creation, file sharing, note keeping (shared and private), project matching based on user location and language, portfolio showcasing, and fiat payments through Stripe.
 
 ## Vision
 
@@ -204,11 +204,7 @@ FLN is an ERC-20 token minted on the Celo blockchain. It is used to facilitate g
 100,000,000 FLN
 
 ## Token Address
-[0x36E3de4FbA4175A4E967ef4a852cb29a8228628E](https://explorer.celo.org/token/0x36E3de4FbA4175A4E967ef4a852cb29a8228628E/token-transfers)
-
-## Initial Token Distribution
-
-![Tokenomics](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/615d68771b4be9a277930ee4_Group%20581%402x.png)
+[0xa5033ad7F1928566225057Fa3e6F704e8401BC25](https://explorer.celo.org/token/0xa5033ad7F1928566225057Fa3e6F704e8401BC25/token-transfers)
 
 
 ## Initial Staking Rewards
