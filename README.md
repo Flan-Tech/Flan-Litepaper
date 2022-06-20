@@ -97,6 +97,16 @@ Everyone expresses themselves differently, but our voices are what defines us. A
 
 Our community is at the heart of what we do. We are all one unit working towards a better future. To us, collective success is born in environments where people value and respect each other.
 
+## Team
+
+![Exec](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/62afda38cd95df10d6293d32_Exec.svg)
+
+![Dev](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/62afda38450de1315d15e0d6_Devs.svg)
+
+![Mar](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/62afda38c5d9c11e0d7aba65_Mar.svg)
+
+![Adv](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/62afda372ec6e7a48087aa9d_Adv.svg)
+
 
 ---
 ---
