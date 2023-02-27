@@ -2,7 +2,7 @@
 
 # Introduction
 
-Welcome to Flan's litepaper. Flan is a blockchain-powered, local-first freelance platform that truly focuses on building relationships and helping freelancers & clients manage projects using smart methodologies. Here you will find useful information about the project.
+Welcome to Flan's litepaper. Flan is the blockchain freelancing platform for Metaverse, gaming and web3 talent. Here you will find useful information about the project.
 
 [**Rationale**](#Rationale) ![caret](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/619320db9bbc32670ea9d3bb_caret-right.svg ':size=12x12')
 
@@ -34,7 +34,9 @@ The potential offered by alternative means of working such as freelancing or hav
 While working online is not contingent on having a registered banking account, being unbanked is becoming a considerable obstacle for many within the gig economy. A freelancer in a developing economy can be excluded from the thousands of opportunities online simply because their banking credentials, or lack thereof, do not match a set of requirements. Digital Nomad freelancers who choose to have a transnational and mobile lifestyle while working from a laptop are restricted by banks, their transaction fees, and exchange rates. In a time where options are celebrated, having a registered banking service should not be the reason why professionals are limited in what they can provide the gig economy.
 
 It is our belief at FLAN that freelancing should be free from centralized institutions. We founded FLAN because we believe freelancing is a fast-growing and critical part of the economy of the future. Our mission is to revolutionize the gig economy making it more secure, transparent, sustainable, and decentralized. Our vision makes use of Blockchain technology which is shifting how the world operates and concentrates on decentralized networks which create unprecedented opportunities for millions.
+
 Our vision of making a sustainable gig economy can not be realized unless it is centered on supporting emerging communities. We aspire to create the conditions for prosperity through building an accessible and inclusive ecosystem; which has made for an ideal partnership with Celo. Not only does Celo share our values of making the gig economy available to as many professionals as possible around the world, but they also grant us access to one of the most widely used blockchains for real-world use.
+
 With the technology and computing powers at our disposal today, comes the responsibility to rethink the way we work and conduct business. The recent COVID-19 Pandemic has forced us to view the world through new eyes: we no longer need to be at the office to do good and creative work on a 9-5 schedule, we can choose to work at our convenience, conduct virtual meetings, and accomplish our goals. Digital nomadism and freelancing are approaches that are gaining major buy-in and popularity in recent times, therefore we are at a critical point where we need to dig deeper and build the tools of tomorrow.
 
 Together, we can shift norms and create a decentralized digital hub for freelancers and digital nomads worldwide.
@@ -142,7 +144,7 @@ Put your network into work and earn money by referring friends or colleagues.
 
 **The Holy Grail**
 
-Enjoy up to 0% commission fee when you lock Flan tokens. Otherwise, Flan charges a flat-rate of 12% for all projects.
+Enjoy up to 0% commission fee when you stake Flan tokens. Otherwise, Flan charges a flat-rate of 12% for all projects.
 
 ![Chat](https://uploads-ssl.webflow.com/6159d8259eb8a308cb0e3d5c/616c8e6c4c27f07ea338effd_Group%202383%402x.png ':size=468x394')
 
